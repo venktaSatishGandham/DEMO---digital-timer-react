@@ -4,7 +4,7 @@ In this project, let's build a **Digital Timer App** by applying the concepts we
 
 <br/>
 <div style="text-align: center;">
-    <img src="![image](https://user-images.githubusercontent.com/103737655/201511339-939ec440-848d-47c1-bd8c-90f9790ead85.png)" alt="digital timer output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)" />
+    ![image](https://user-images.githubusercontent.com/103737655/201511358-5c2195a0-5a7f-4cee-a531-837865d667c7.png)
 </div>
 <br/>
 
